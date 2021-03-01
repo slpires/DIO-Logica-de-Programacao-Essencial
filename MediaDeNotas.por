@@ -1,3 +1,6 @@
+// Cálculo de Média Aritmética entre 4 notas.
+// Autor: Sérgio Pires (slpires@slpires.com)
+
 programa
 {
 	
@@ -39,7 +42,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 708; 
+ * @POSICAO-CURSOR = 90; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
