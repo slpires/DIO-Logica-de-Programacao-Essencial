@@ -1,3 +1,6 @@
+// Olá Mundo!
+// Sérgio Pires (slpires@slpires.com)
+
 programa
 {
 	

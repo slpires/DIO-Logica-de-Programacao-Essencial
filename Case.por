@@ -1,4 +1,5 @@
 // Prática sobre desvio condicional usando "CASE".
+// Sérgio Pires (slpires@slpires.com)
 
 programa
 {

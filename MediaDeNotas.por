@@ -1,5 +1,5 @@
 // Cálculo de Média Aritmética entre 4 notas.
-// Autor: Sérgio Pires (slpires@slpires.com)
+// Sérgio Pires (slpires@slpires.com)
 
 programa
 {
